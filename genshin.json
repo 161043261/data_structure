@@ -1,0 +1,117 @@
+{
+  "火": {
+    "number": 3,
+    "characters": [
+      {
+        "name": "班尼特",
+        "artifacts": "昔日宗室之仪"
+      },
+      {
+        "name": "香菱",
+        "artifacts": "绝缘之旗印"
+      },
+      {
+        "name": "迪卢克",
+        "artifacts": "炽热的炎之魔女"
+      }
+    ]
+  },
+  "水": {
+    "number": 5,
+    "characters": [
+      {
+        "name": "行秋",
+        "artifacts": "绝缘之旗印"
+      },
+      {
+        "name": "莫娜",
+        "artifacts": "绝缘之旗印"
+      },
+      {
+        "name": "夜兰",
+        "artifacts": "绝缘之旗印"
+      },
+      {
+        "name": "珊瑚宫心海",
+        "artifacts": "生、生、治"
+      },
+      {
+        "name": "芙宁娜",
+        "artifacts": "黄金剧团"
+      }
+    ]
+  },
+  "风": {
+    "number": 2,
+    "characters": [
+      {
+        "name": "琴",
+        "artifacts": "翠绿之影"
+      },
+      {
+        "name": "枫原万叶",
+        "artifacts": "翠绿之影"
+      }
+    ]
+  },
+  "雷": {
+    "number": 5,
+    "characters": [
+      {
+        "name": "菲谢尔",
+        "artifacts": "黄金剧团"
+      },
+      {
+        "name": "久岐忍",
+        "artifacts": "饰金之梦"
+      },
+      {
+        "name": "刻晴",
+        "artifacts": "饰金之梦"
+      },
+      {
+        "name": "雷电将军",
+        "artifacts": "绝缘之旗印"
+      },
+      {
+        "name": "八重神子",
+        "artifacts": "饰金之梦"
+      }
+    ]
+  },
+  "草": {
+    "number": 3,
+    "characters": [
+      {
+        "name": "提纳里",
+        "artifacts": "流浪大地的乐团"
+      },
+      {
+        "name": "白术",
+        "artifacts": "深林的记忆"
+      },
+      {
+        "name": "纳西妲",
+        "artifacts": "深林的记忆"
+      }
+    ]
+  },
+  "冰": {
+    "number": 1,
+    "characters": [
+      {
+        "name": "神里绫华",
+        "artifacts": "冰风迷途的勇士"
+      }
+    ]
+  },
+  "岩": {
+    "number": 1,
+    "characters": [
+      {
+        "name": "钟离",
+        "artifacts": "千岩牢固"
+      }
+    ]
+  }
+}
